@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://b3kobiipq2jbo"]
 
-[ext_resource type="Script" path="res://addons/borderless_titlebar/title_bar.gd" id="1_75sb0"]
+[ext_resource type="Script" path="res://addons/godot-borderless-titlebar/borderless_titlebar/title_bar.gd" id="1_75sb0"]
 [ext_resource type="Texture2D" uid="uid://h2n1iynqkrnf" path="res://icon.svg" id="2_mlfh2"]
-[ext_resource type="Script" path="res://addons/borderless_titlebar/window_scaler.gd" id="3_xowj6"]
+[ext_resource type="Script" path="res://addons/godot-borderless-titlebar/borderless_titlebar/window_scaler.gd" id="3_xowj6"]
 
 [node name="TitleBar" type="PanelContainer"]
 anchors_preset = 10
