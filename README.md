@@ -1,3 +1,8 @@
+
+# latest vision is here
+https://github.com/JACKADUX/Application-Components/tree/main/components/custom_window_bar
+
+
 # godot-borderless-titlebar
  
 creat custom borderless window title bar
