@@ -1,5 +1,5 @@
 
-# latest vision is here
+# latest virsion is here
 https://github.com/JACKADUX/Application-Components/tree/main/components/custom_window_bar
 
 
